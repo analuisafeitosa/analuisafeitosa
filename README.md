@@ -14,7 +14,7 @@ Atualmente estou aprendendo e explorando:
 
 ## Linguagens que mais uso
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=analuisafeitosa&layout=compact&langs_count=6)
 
 
 Sempre buscando aprimorar minhas habilidades e aprender novas tecnologias para construir projetos cada vez melhores! 🚀
