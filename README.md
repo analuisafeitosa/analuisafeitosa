@@ -12,6 +12,11 @@ Atualmente estou aprendendo e explorando:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
+## Linguagens que mais uso
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6)
+
+
 Sempre buscando aprimorar minhas habilidades e aprender novas tecnologias para construir projetos cada vez melhores! 🚀
 
 Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada.
