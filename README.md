@@ -40,8 +40,8 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=analuisafeitosa&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuisafeitosa&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
 </p>
 
 ---
