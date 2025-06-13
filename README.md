@@ -51,11 +51,6 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuisafeitosa&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=analuisafeitosa&theme=radical" alt="GitHub Streak" />
-</p>
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=analuisafeitosa&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
